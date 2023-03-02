@@ -7,8 +7,11 @@
 ---
 
 목표 : Gilbert Strang 교수님의 [선형대수학 강의](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/) 공부 및 정리
+
 시간 : 매주 월요일 9시
+
 발표자 :
+
 - week 1 : 박도현 [Lec 1,2]
 - week 2 : 권주원 [Lec 3,4], 성태규 [Lec 5,6]
 - week 3 : 이희도 [Lec 7,8], 박도현 [Lec 9,10]
