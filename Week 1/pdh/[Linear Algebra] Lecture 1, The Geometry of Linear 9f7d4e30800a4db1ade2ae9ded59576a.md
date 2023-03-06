@@ -182,7 +182,7 @@ $$
 \rm x \begin{bmatrix} 2 \\ -1 \\ 0 \end{bmatrix} + y \begin{bmatrix} -1 \\ 2 \\ -3 \end{bmatrix} + z \begin{bmatrix} 0 \\ -1 \\ 4 \end{bmatrix} = \begin{bmatrix} 1 \\ 1 \\ -3 \end{bmatrix}
 $$
 
-만일, 위와 같이 우변 벡터가 ```\begin{bmatrix} 1 \\ 1 \\ -3 \end{bmatrix}```로 바뀐다면 정답이 바로 보이는가?
+만일, 위와 같이 우변 벡터가 $\begin{bmatrix} 1 \\ 1 \\ -3 \end{bmatrix}$로 바뀐다면 정답이 바로 보이는가?
 
 찾기 힘들 것이다.
 
