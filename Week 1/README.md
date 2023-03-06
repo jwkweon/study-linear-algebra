@@ -5,7 +5,7 @@
 
 박도현 : [lec1](https://pdhlab.notion.site/Linear-Algebra-Lecture-1-The-Geometry-of-Linear-Equations-9f7d4e30800a4db1ade2ae9ded59576a), [lec2](https://pdhlab.notion.site/Linear-Algebra-Lecture-2-9bc4f6cc88d54153ac89b7bfc8bf1d2a)
 
-성태규 : [lec1](링크는 여기에), [lec2](링크는 여기에)
+성태규 : [lec1](https://tabby-liquid-53a.notion.site/Lecture1-f809c51919304d45976adcf295ecb7f1), [lec2](https://tabby-liquid-53a.notion.site/Lecture-2-9db88d7edc874de0adc105fb82667b79)
 
 이희도 : [lec1](링크는 여기에), [lec2](링크는 여기에)
 
