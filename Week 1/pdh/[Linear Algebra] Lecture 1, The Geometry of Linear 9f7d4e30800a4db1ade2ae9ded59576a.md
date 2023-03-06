@@ -35,7 +35,8 @@ $$
 위와 같은 두 식이 되겠고 이를 **행렬(Matrix)**로 표현해보자.
 
 $$
- {{ 2 \ -1 } \brack { -1 \ 2 } } { x \brack y } = { 0 \brack 3} \\ A \quad\quad \rm {x}   \quad\quad \it b
+ {{ 2 \ -1 } \brack { -1 \ 2 } } { x \brack y } = { 0 \brack 3} \\
+ A \quad\quad \rm {x}   \quad\quad \it b
 $$
 
 A : 계수 행렬(coefficient matrix)
@@ -97,7 +98,9 @@ $$
 Column picture는 말 그대로 행렬에서 column part를 보는 것이다.
 
 $$
-2x- y = 0 \\ -x+2y = 3 \\ {\rm {x \quad \ \  y \quad \ \ b }}
+2x- y = 0 \\
+-x+2y = 3 \\
+{\rm {x \quad \ \  y \quad \ \ b }}
 $$
 
 왼쪽 x 앞의 계수들 x column 즉, $2 \brack -1$이고, y column은 $-1 \brack 2$이다. b column은 $0 \brack 3$이다.
@@ -141,13 +144,31 @@ $$
 여태까지는 2x2행렬에 대해 2D 공간에서 공부했는데, 이번에는 3x3행렬에 대해 3D 공간에서 공부해보자.
 
 $$
-2x - y \quad = 0 \\ -x+2y-z = -1 \\ \quad -3y+4z =4
+2x - y \quad = 0 \\
+-x+2y-z = -1 \\
+\quad -3y+4z =4
 $$
 
 마찬가지로 행렬 식으로 표현해보자.
 
 $$
-\begin{bmatrix} 2 & -1 & 0 \\ -1 & 2 & -1 \\ 0 & -3 & 4 \end{bmatrix}  \begin{bmatrix} x \\ y \\ z \end{bmatrix}  = \begin{bmatrix} 0 \\ -1 \\ 4 \end{bmatrix} \\ \rm A \quad \quad \quad \quad \quad x = \quad b
+\begin{bmatrix}
+2 & -1 & 0 \\
+-1 & 2 & -1 \\
+0 & -3 & 4
+\end{bmatrix}
+\begin{bmatrix}
+x \\
+y \\
+z
+\end{bmatrix}
+=
+\begin{bmatrix}
+0 \\
+-1 \\
+4
+\end{bmatrix} \\
+\rm A \quad \quad \quad \quad \quad x = \quad b
 $$
 
 먼저 **Row picture**로 살펴보자.
@@ -165,7 +186,30 @@ $$
 이번에는 Column picture로 풀어보자. 일단, column part로 식을 써보면
 
 $$
-\rm x \begin{bmatrix} 2 \\ -1 \\ 0 \end{bmatrix} + y \begin{bmatrix} -1 \\ 2 \\ -3 \end{bmatrix} + z \begin{bmatrix} 0 \\ -1 \\ 4 \end{bmatrix} = \begin{bmatrix} 0 \\ -1 \\ 4 \end{bmatrix}
+\rm x
+\begin{bmatrix}
+2 \\
+-1 \\
+0
+\end{bmatrix}
++ y
+\begin{bmatrix}
+-1 \\
+2 \\
+-3
+\end{bmatrix}
++ z
+\begin{bmatrix}
+0 \\
+-1 \\
+4
+\end{bmatrix}
+=
+\begin{bmatrix}
+0 \\
+-1 \\
+4
+\end{bmatrix}
 $$
 
 여태까지는 2차원 벡터들이 였다면 이번에는 3차원 벡터들의 선형 결합으로 나타난다.
@@ -179,10 +223,39 @@ $$
 ![6.PNG](%5BLinear%20Algebra%5D%20Lecture%201,%20The%20Geometry%20of%20Linear%209f7d4e30800a4db1ade2ae9ded59576a/6.png)
 
 $$
-\rm x \begin{bmatrix} 2 \\ -1 \\ 0 \end{bmatrix} + y \begin{bmatrix} -1 \\ 2 \\ -3 \end{bmatrix} + z \begin{bmatrix} 0 \\ -1 \\ 4 \end{bmatrix} = \begin{bmatrix} 1 \\ 1 \\ -3 \end{bmatrix}
+\rm x
+\begin{bmatrix}
+2 \\
+-1 \\
+0
+\end{bmatrix}
++ y
+\begin{bmatrix}
+-1 \\
+2 \\
+-3
+\end{bmatrix}
++ z
+\begin{bmatrix}
+0 \\
+-1 \\
+4
+\end{bmatrix}
+=
+\begin{bmatrix}
+1 \\
+1 \\
+-3
+\end{bmatrix}
 $$
 
-만일, 위와 같이 우변 벡터가 $\begin{bmatrix} 1 \\ 1 \\ -3 \end{bmatrix}$로 바뀐다면 정답이 바로 보이는가?
+만일, 위와 같이 우변 벡터가
+$$ \begin{bmatrix}
+1 \\
+1 \\
+-3
+\end{bmatrix}
+$$로 바뀐다면 정답이 바로 보이는가?
 
 찾기 힘들 것이다.
 
