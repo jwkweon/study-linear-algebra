@@ -8,7 +8,7 @@
 
 목표 : Gilbert Strang 교수님의 [선형대수학 강의](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/) 공부 및 정리
 
-시간 : 매주 월요일 9시
+시간 : 매주 월요일 8시 30분
 
 발표자 :
 
