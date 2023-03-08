@@ -14,7 +14,4 @@
 
 성태규 : [lec1](https://tabby-liquid-53a.notion.site/Lecture1-f809c51919304d45976adcf295ecb7f1), [lec2](https://tabby-liquid-53a.notion.site/Lecture-2-9db88d7edc874de0adc105fb82667b79)
 
-이희도 : [lec1](링크는 여기에), [lec2](링크는 여기에)
-
-
-**링크는 여기에를 지우고 주소 적으면됩니다**
+이희도 : [lec1](https://www.notion.so/Linear-algebra-lecture1-73f2fec2d65241d7a098b4ffe2deafdf?pvs=4), [lec2](https://www.notion.so/Linear-algebra-lecture2-76a25e1ef81d45e3933cc46ce2725556?pvs=4)
