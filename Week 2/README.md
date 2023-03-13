@@ -6,7 +6,7 @@
 
 권주원 : [lec3](), [lec4](), [lec5](), [lec6]()
 
-박도현 : [lec3](), [lec4](), [lec5](), [lec6]()
+박도현 : [lec3](https://dohlab.tistory.com/6), [lec4](https://dohlab.tistory.com/7), [lec5](https://dohlab.tistory.com/8), [lec6](https://dohlab.tistory.com/9)
 
 성태규 : [lec3](), [lec4](), [lec5](), [lec6]()
 
