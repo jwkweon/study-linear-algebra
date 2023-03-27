@@ -8,6 +8,6 @@
 
 박도현 : [lec11](https://dohlab.tistory.com/18), [lec12](https://dohlab.tistory.com/19), [lec13](), [lec14](https://dohlab.tistory.com/20)
 
-성태규 : [lec11](), [lec12](), [lec13](), [lec14]()
+성태규 : [lec11](https://velog.io/@tag_you/선형대수학-11장), [lec12](https://velog.io/@tag_you/선형대수학-12장), [lec13](), [lec14]()
 
 이희도 : [lec11](), [lec12](), [lec13](), [lec14]()
