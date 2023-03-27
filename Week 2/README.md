@@ -8,6 +8,6 @@
 
 박도현 : [lec3](https://dohlab.tistory.com/6), [lec4](https://dohlab.tistory.com/7), [lec5](https://dohlab.tistory.com/8), [lec6](https://dohlab.tistory.com/9)
 
-성태규 : [lec3](), [lec4](), [lec5](), [lec6]()
+성태규 : [lec3](), [lec4](), [lec5](https://velog.io/@tag_you/선형대수학-5장), [lec6](https://velog.io/@tag_you/선형대수학-6장)
 
 이희도 : [lec3](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture3-578a7af1f7dc4ba384066345fa5d1994), [lec4](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture4-3e2238ec8cfc4d36831a3a35aabecebe), [lec5](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture5-0d6a52f8a9b949df91671366981b9223), [lec6](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture6-360e8ac1c81343259ae98edaa29fdbb8)
