@@ -10,4 +10,4 @@
 
 성태규 : [lec11](https://velog.io/@tag_you/선형대수학-11장), [lec12](https://velog.io/@tag_you/선형대수학-12장), [lec13](), [lec14]()
 
-이희도 : [lec11](), [lec12](), [lec13](), [lec14]()
+이희도 : [lec11](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture11-b1d68b8b7b5040b49ddf4d6c21e0ea34), [lec12](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture12-9c10eb7c4e204d29874e1dc0d321fa86), [lec13](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture13-38dbb1ad8bfe4d6db884cf33d3a60cf8), [lec14](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture14-935ffb7f178f4006a136e55f190ad4cb)
