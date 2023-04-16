@@ -18,4 +18,4 @@
 
 성태규 : [lec15](https://velog.io/@tag_you/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-15%EC%9E%A5), [lec16](https://velog.io/@tag_you/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-16%EC%9E%A5)
 
-이희도 : [lec15](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture15-0c174ff1fb1b46eaaf1fa9cdfaa7bf78), [lec16]()
+이희도 : [lec15](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture15-0c174ff1fb1b46eaaf1fa9cdfaa7bf78), [lec16](https://acoustic-nasturtium-0b2.notion.site/Linear-algebra-lecture16-70c63ce20d394dc494a75935bdc174dd)
