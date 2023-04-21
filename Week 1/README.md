@@ -8,7 +8,7 @@
 
 ### 강의 정리 link
 
-권주원 : [lec1](https://velog.io/@hodupython/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8-1), [lec2](https://well-catsup-c9c.notion.site/Lec-2-Elimination-with-matrices-6e8fe778a28a4fb5922edf379806c1d9)
+권주원 : [lec1](https://velog.io/@hodupython/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8-1), [lec2](https://velog.io/@hodupython/Lec-2.-Elimination-with-matrices)
 
 박도현 : [lec1](https://dohlab.tistory.com/2), [lec2](https://dohlab.tistory.com/3)
 
