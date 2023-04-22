@@ -7,7 +7,7 @@
 ---
 ### 강의 정리 link
 
-권주원 : [lec3](https://well-catsup-c9c.notion.site/Lec-3-Multiplication-and-Inverse-Matrices-cb2751b9148b4b0a977915bf4602cf11), [lec4](https://well-catsup-c9c.notion.site/Lec-4-Factorization-A-LU-3d27d9ce62f9413d915d99f1ffeec603), [lec5](https://well-catsup-c9c.notion.site/Lec-5-Transposes-Permutations-Spaces-R-n-0156ab59594c4ad0a86ebd3d83367baa), [lec6](https://well-catsup-c9c.notion.site/Lec-6-Column-Space-and-Nullspace-1b9cec378641402587c08fdd8ab76edd)
+권주원 : [lec3](https://velog.io/@hodupython/Lec-3.-Multiplication-and-Inverse-Matrices), [lec4](https://well-catsup-c9c.notion.site/Lec-4-Factorization-A-LU-3d27d9ce62f9413d915d99f1ffeec603), [lec5](https://well-catsup-c9c.notion.site/Lec-5-Transposes-Permutations-Spaces-R-n-0156ab59594c4ad0a86ebd3d83367baa), [lec6](https://well-catsup-c9c.notion.site/Lec-6-Column-Space-and-Nullspace-1b9cec378641402587c08fdd8ab76edd)
 
 박도현 : [lec3](https://dohlab.tistory.com/6), [lec4](https://dohlab.tistory.com/7), [lec5](https://dohlab.tistory.com/8), [lec6](https://dohlab.tistory.com/9)
 
