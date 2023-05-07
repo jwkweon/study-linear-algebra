@@ -6,7 +6,7 @@
 
 권주원 : [Lec19](), [Lec20]()
 
-박도현 : [Lec19](), [Lec20]()
+박도현 : [Lec19](https://dohlab.tistory.com/34), [Lec20](https://dohlab.tistory.com/35)
 
 성태규 : [Lec19](), [Lec20]()
 
